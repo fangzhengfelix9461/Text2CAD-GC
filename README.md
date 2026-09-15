@@ -100,9 +100,6 @@ Text2CAD-GC 不应替代所有现有 benchmark。建议同时使用：
 
 详细说明见 [`docs/benchmark-guide-zh.md`](docs/benchmark-guide-zh.md)。
 
-投稿选择、论文级数据建设、统计设计与逐步验收清单见
-[`docs/publication-venue-and-roadmap-zh.md`](docs/publication-venue-and-roadmap-zh.md)。
-
 ### 强化学习时的正确用法
 
 连续性 reward 必须与 validity、prompt compliance、dimension、topology 和 sharp-edge preservation 联合使用。只奖励 G2 会产生 reward hacking：模型可能减少曲面数量、消除接缝，或把本应锐利的机械边错误地磨平。
