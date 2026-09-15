@@ -1,0 +1,16 @@
+{
+  "total": 90,
+  "by_split": {
+    "train": 60,
+    "validation": 15,
+    "test": 15
+  },
+  "by_grade": {
+    "G0": 30,
+    "G1": 30,
+    "G2": 30
+  },
+  "verification_pass": 90,
+  "verification_fail": 0,
+  "scope": "pilot/calibration curriculum; not a paper-scale real-object benchmark"
+}

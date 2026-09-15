@@ -1,0 +1,13 @@
+{
+  "models": 249,
+  "seams": 3691,
+  "counts": {
+    "G0_only": 3318,
+    "G0_fail": 68,
+    "G1_only": 252,
+    "G2": 38,
+    "unknown": 15
+  },
+  "provenance": "Derived metrics from a 250-model convenience scan of the gated PartABC/NURBGen test data. Original geometry is not redistributed.",
+  "usage_warning": "Do not train on these records and then evaluate on the same NURBGen test models. Design intent is unknown."
+}

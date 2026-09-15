@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use Text2CAD-GC, please cite this software and include the release version or commit hash."
+title: "Text2CAD-GC: A Geometric Continuity Benchmark and Reinforcement-Learning Toolkit for Text-to-CAD"
+type: software
+authors:
+  - family-names: Zheng
+    given-names: Fang
+affiliation: "The Hong Kong Polytechnic University"
+version: 0.1.0
+date-released: 2026-09-16
+license: MIT
+repository-code: "https://github.com/fangzhengfelix9461/Text2CAD-GC"
+keywords:
+  - Text-to-CAD
+  - geometric continuity
+  - G0
+  - G1
+  - G2
+  - NURBS
+  - B-Rep
+  - reinforcement learning

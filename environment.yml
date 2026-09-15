@@ -1,0 +1,6 @@
+name: text2cad-gc
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pythonocc-core=7.9.0
